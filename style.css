@@ -1,0 +1,57 @@
+:root {
+    --font-family: "Montserrat", sans-serif;
+    --second-family: "RobotoSlab", sans-serif;
+    --third-family: "DroidSerif", sans-serif;
+    --font3: "Bilbo Swash Caps", sans-serif;
+  }
+  .header-logo {
+  width: 933px;
+  height: 39px;
+  }
+  .header-iteam {
+  width: 480px;
+  height: 13px;
+  }
+  .services-title {
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 187%;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #222;
+  }
+.services-subtitle {
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 417%;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #222;
+}
+.services-text {
+  font-family: var(--second-family);
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #777;
+}
+.contact-title {
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 40px;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  color: #fff;
+}
+.contact-input {
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  color: #bbb;
+}
